@@ -21,6 +21,8 @@
 
  step --> 5
  Lexical Environment
+ OR
+ Lexical Context
  */
 
 function sayName() {
